@@ -3,6 +3,9 @@
 	<persistence-unit name="MuitospraUm">
 			<provider>org.hibernate.jpa.HibernatePersistenceProvider</provider>
 			
+              
+
+              
 			<class>modelo.Professor</class>
 			<class>modelo.Telefone</class>
 			<class>modelo.Aluno</class>
