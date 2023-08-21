@@ -69,3 +69,4 @@
 - JPA
 - Hibernate
 - Mysql
+- Padrão DAO
